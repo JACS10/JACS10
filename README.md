@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JACS10, physicist and everything related to data.
-- I’m interested in Physics, Mathematics, Data Science and... yeah, things.
-- I’m currently learning a lot of new things out of my main knowledge area.
-- I'm going to try and simulate some interesting physical phenomena on my free time.
+- Interested in Physics, Mathematics, Data Science and... yeah, things.
+- Currently learning a lot of new things out of my main knowledge area.
+- I'll try and simulate some interesting physical phenomena on my free time.
+- There's another project about song similarity I've been working on: https://github.com/Ahnlied
 - Follow me on Twitter @carba_iorsh
